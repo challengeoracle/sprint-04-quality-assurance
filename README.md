@@ -124,7 +124,7 @@ Cada **Test Case ID** corresponde a um item criado manualmente nos cards do boar
 | Nome | Função |
 |---|---|
 | Davi Cavalcanti Jorge | RM 559873|
-| Mateus da Silveira Lima | RM 55987|
+| Mateus da Silveira Lima | RM 559728|
 | Arthur Thomas Mariano de Souza | RM 561061|
 
 ---
