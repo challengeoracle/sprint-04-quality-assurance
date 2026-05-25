@@ -205,7 +205,7 @@ Cada identificador apresentado abaixo corresponde a um item registrado manualmen
 
 | Recurso             | Link                           |
 | ------------------- | ------------------------------ |
-| Azure Boards        | [INSERIR LINK DO AZURE BOARDS] |
+| Azure Boards        | https://dev.azure.com/RM559873/Medix/_boards/board/t/Medix%20Team/Backlog%20items |
 | Vídeo Demonstrativo | https://youtu.be/0knb4Ujl3bQ   |
 
 ---
